@@ -27,6 +27,9 @@ The three main goals of the feature selection include improving the performance 
 
 Performing all the above steps leads us to the final step i.e prediction. This step predicts the presence of AD. The dataset obtained from OASIS has 150 subjects and 15 colums, out of these 15 only 7 columns or features helped in predicting the disease with higher accuracy.
 
+## Dataset
+https://github.com/aisha1dlp/Alzheimers-disease/blob/main/oasis_longitudinal.csv
+
 ## Outputs
 Main page
 ![ad1](https://user-images.githubusercontent.com/87255955/166254777-1b4d2fec-0302-4943-9c50-cc0e1039dfac.jpg)
