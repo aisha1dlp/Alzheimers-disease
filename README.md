@@ -31,6 +31,8 @@ Performing all the above steps leads us to the final step i.e prediction. This s
 Main page
 ![ad1](https://user-images.githubusercontent.com/87255955/166254777-1b4d2fec-0302-4943-9c50-cc0e1039dfac.jpg)
 
-Normal patient
+Normal 
 ![ad2](https://user-images.githubusercontent.com/87255955/166255065-33446edd-9ee8-4018-96d5-d2af05add4f7.jpg)
 
+Alzheimer's detected
+![ad3](https://user-images.githubusercontent.com/87255955/166255342-8a75a932-8a1c-46d1-a3ca-03989d5bb370.jpg)
